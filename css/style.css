@@ -849,10 +849,10 @@ h3.my-profession
       display: none;
    }
    .home .home-info
-     {
-        flex: 0 0 100%;
-        max-width: 100%;
-     }
+   {
+      flex: 0 0 100%;
+      max-width: 100%;
+   }
 }
 @media (max-width:767px)
 {
@@ -864,7 +864,6 @@ h3.my-profession
    .about .about-content .education,
    .about .about-content .skills,
    .about .about-content .personal-info
-   .home .home-info
    {
       flex: 0 0 100%;
       max-width: 100%;
@@ -875,3 +874,4 @@ h3.my-profession
       max-width: 100%;
    }
 }
+
